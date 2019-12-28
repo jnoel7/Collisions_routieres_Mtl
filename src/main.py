@@ -40,6 +40,16 @@ class Parser:
                     result[row[7]] += 1
         return result
 
+    # La fonction qui donne le nombre d'accident par jour de la semaine
+    # ex: {'LU': 30, 'MA': 80, ...}
+
+
+    # La fonction qui donne le nombre d'accident impliquant au moins un velo
+
+
+    # La fonction qui donne le nombre d'accident impliquant au moins un velo ET un vehicule motorise
+    # Il faut au moins 1 motorise (moto, camion leger, camion lourd, VHR, etc..) et au moins 1 velo
+
 
 parser = Parser('assets/accidents_2012_2018.csv')
 list = parser.get_number_accidents_by_street()

@@ -3,6 +3,28 @@
 Petit projet maison pour apprendre l'analyse de donnne avec 
 Python, base sur des Open-Data fournis par la ville de Montreal.
 
+
+## Programme d'apprentissage
+
+### Semaine 1
+
+Introduction au class vs object
+Introduction au methode de classe
+Introduction au type de base (int, string, dict, list)
+Introduction a la lecture de CSV avec python/CSV
+
+**A faire:**
+
+ - 3 methode de classe a developper avant le prochain cours
+ 
+ 
+### Semaine 2
+
+Augmentation de la complexite des methodes de classe:
+ - extrapolation de pourcentage
+ - filtrage des lignes du CSV
+
+
 # Quickstart
 
 We're going to install and configure the latest develop build of this API.
